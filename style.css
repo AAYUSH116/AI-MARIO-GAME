@@ -2,9 +2,7 @@
     text-align: left;
     width: 100%;
 }
-.heading:hover{
-    background-color: lawngreen;
-}
+
 .heading h3{
     display: inline;
 }
@@ -24,4 +22,18 @@ body{
 }
 #start:hover{
 background-color: red;
+}
+h4{
+    background-color: white;
+    line-height: 2;
+    font-size: 15px;
+    margin: 0px;
+}
+.modal-dialog{
+    width: 90%;
+}
+.intstructions_image{
+    display: inline-block;
+    width: 45%;
+    
 }
